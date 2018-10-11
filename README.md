@@ -11,6 +11,6 @@
 
 ---
 ### Linux命令
-重命名文件夹或文件
-mv clang clangback
+重命名文件夹或文件<br>
+mv clang clangback<br>
 mv 1.txt 2.txt
