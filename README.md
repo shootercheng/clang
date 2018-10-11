@@ -8,3 +8,9 @@
 ### markdown使用
 ***markdown使用***
 [markdown](https://www.jianshu.com/p/191d1e21f7ed)
+
+---
+### Linux命令
+重命名文件夹或文件
+mv clang clangback
+mv 1.txt 2.txt
