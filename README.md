@@ -1,7 +1,8 @@
 # clang
 
-### git使用<br>
-***git使用*** 
+### git使用
+
+***git使用*** <br>
 [git使用](https://blog.csdn.net/youzhouliu/article/details/78952453)
 
 [git查看用户名和邮箱](https://blog.csdn.net/bit_girl/article/details/53560885)
@@ -12,7 +13,7 @@
 
 ---
 ### markdown使用
-***markdown使用***
+***markdown使用***<br>
 [markdown](https://www.jianshu.com/p/191d1e21f7ed)
 
 ---
