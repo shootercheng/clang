@@ -1,0 +1,19 @@
+2018年 10月 12日 星期五 21:25:06 CST
+1.C语言库 stdio.h
+2.GCC编译器编译过程
+
+GCC编译器
+a.预编译 -E 参数
+	gcc -E hello.c -o hello.i
+	引入hello.c中#include语句导入的包，处理宏定义
+b.将hello.i编译为目标文件 -c 参数
+	gcc -c hello.i -o hello.o
+	gcc将.i文件识别为预处理后的C语言代码，上述代码将跳过预处理而开始执行编译
+c.生成目标文件 -o 参数
+	gcc hello.o -o hello
+
+代码解析
+#include <stdio.h> stdio.h为标准输入输出文件，#include为预处理命令，用来引入头文件
+
+stdio.h 头文件定义了三个变量，一些宏和各种函数来执行输入和输出
+
