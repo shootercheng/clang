@@ -28,7 +28,7 @@ NULL 指针地址为 ）0x0
 
 ```
 int *ptr = NULL;
-if(ptr = 0x0)
+if(ptr == 0x0)
 ```
 
 ### 指针算数运算符
