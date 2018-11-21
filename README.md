@@ -28,3 +28,13 @@ mv 1.txt 2.txt
 ### C语言学习
 [stdio.h语言库](https://blog.csdn.net/u010842019/article/details/53012244)
 
+
+
+
+### git 常用命令
+
+git pull 更新远程分支代码到本地分支
+
+git pull origin newDev
+
+git pull origin [分支名]   跟新远程其它分支到本地分支
